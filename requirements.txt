@@ -1,0 +1,3 @@
+cvzone
+pygame
+opencv_python

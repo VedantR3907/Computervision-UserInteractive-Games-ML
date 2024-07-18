@@ -1,0 +1,45 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# macOS
+.DS_Store
+
+# Thumbnails
+thumbs/
+
+# Ignore local settings file
+local_settings.py
+
+# Ignore pipenv or poetry lock files
+Pipfile.lock
+poetry.lock
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
