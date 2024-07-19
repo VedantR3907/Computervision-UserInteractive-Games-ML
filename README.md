@@ -41,6 +41,11 @@ Interface
    git clone https://github.com/VedantR3907/Computervision-UserInteractive-Games-ML.git
    ```
 
+2. Install requirements.txt
+```
+pip install -r requirements.txt
+```
+
 ## Usage
 To run the game with the interface, execute the following command:
 ```
